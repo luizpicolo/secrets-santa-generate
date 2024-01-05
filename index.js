@@ -21,4 +21,4 @@ const newSecretsSanta = secretsSanta.map((secretSanta) => {
   return [secretSanta[0], secretSanta[1] = element];
 });
 
-//console.table(newSecretsSanta);
+console.table(newSecretsSanta);
